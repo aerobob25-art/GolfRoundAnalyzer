@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using GolfRoundAnalyzer.Api.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
