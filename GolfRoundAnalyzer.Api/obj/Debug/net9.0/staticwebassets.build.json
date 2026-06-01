@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JXwnL6UnSKVc3IPnkt8Ug4fN4QmZrw4KnrOs+zl5G5s=",
+  "Source": "GolfRoundAnalyzer.Api",
+  "BasePath": "_content/GolfRoundAnalyzer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
