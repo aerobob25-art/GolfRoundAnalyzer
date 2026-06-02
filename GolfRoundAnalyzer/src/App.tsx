@@ -1,4 +1,5 @@
 import './App.css'
+import type { GolfRound } from './types';
 
 function App() {
   return (
@@ -29,6 +30,24 @@ function App() {
       </section>
     </main>
   );
+}
+
+const API_URL = "http://localhost:5183/api";
+
+export const golfService = {
+  async getGolfRounds() {
+    const response = await fetch('${API_URL}/golfRounds');
+    return response.json();
+  },
+
+  async createGolfRound(round: GolfRound) {
+    const response = await fetch('${API_URL}/golfRounds', {
+      method: "POST",
+      headers: {"append": "application/json"},
+      body: JSON.stringify(round),
+    });
+    return response.json();
+  }
 }
 
 export default App;

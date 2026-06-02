@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GolfRoundAnalyzer.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5573115909e915b65870741250446cf40cd2da4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea19adf24e4e7ef07c55d394360c6ba47c127191")]
 [assembly: System.Reflection.AssemblyProductAttribute("GolfRoundAnalyzer.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GolfRoundAnalyzer.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
