@@ -1,0 +1,11 @@
+# Ignore .NET build artifacts
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Ignore generated Visual Studio Code workspace files
+.vscode/
