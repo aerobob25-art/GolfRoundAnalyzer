@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\GolfRoundAnalyzer.Api.props" />
-</Project>
