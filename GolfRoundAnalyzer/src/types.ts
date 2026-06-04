@@ -4,7 +4,7 @@ export interface GolfRound {
     datePlayed: string;
     score: number;
     fairwaysHit: number;
-    totalFairwaysPossible: number;
+    fairwaysPossible: number;
     greensInRegulation: number;
     putts: number;
 }
