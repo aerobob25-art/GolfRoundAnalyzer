@@ -9,3 +9,9 @@
 
 # Ignore generated Visual Studio Code workspace files
 .vscode/
+
+# Ignore npm dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
